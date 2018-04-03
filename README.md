@@ -11,7 +11,7 @@ This repository doesn't have any Graphic User Interface, but It can be compiled 
 * Clone this repository
 * `cd 2PowerN`
 * Execute `ant run`. The game will be compiled and a game board will be shown in the terminal
-* Write some of this instructions and press enter:
+* Write some of these instructions and press enter:
   * w: Go Up
   * s: Go Down
   * a: Go Left
